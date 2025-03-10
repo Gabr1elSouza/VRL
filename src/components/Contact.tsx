@@ -11,7 +11,7 @@ function Contact() {
             <Mail />
           </i>
           <h2 className="text-xl font-bold mb-2 text-zinc-200">Email</h2>
-          <p className="mb-4 text-zinc-400">email@email.com</p>
+          <p className="mb-4 text-zinc-400">vagnerlima@vrlaudiovisual.com</p>
         </div>
         <div className="hover:shadow-lg p-5 rounded-lg">
           <a href="https://www.instagram.com/limavagner/">
